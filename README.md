@@ -6,6 +6,9 @@ Web scraping, web harvesting, or web data extraction is data scraping used for e
   <li> Bs4 
   <li> Request
 
+<br><h2> Getting the Dataset</h2> </br>
+<h3>I have used the dataset from worldometer site: </h3> 
+("https://www.worldometers.info/coronavirus/?utm_campaign=homeAdvegas1?%22%20%5Cl%22countries")
 
-**Getting the Dataset**
-- I have used the dataset from worldometer site:("https://www.worldometers.info/coronavirus/?utm_campaign=homeAdvegas1?%22%20%5Cl%22countries")
+<br><h2>Image of the final result**  </h2></br>
+<img src= https://res.cloudinary.com/adeshpokhrel/image/upload/v1621059306/worldometer/worldometer_zstgj9.png> </img>
